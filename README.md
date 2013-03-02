@@ -19,3 +19,5 @@ Mohsen Niyazdel.H    [@niyazdel](http://twitter.com/niyazdel) , [Github](http://
 
 #### Project Start Date :
 Saturday Mar 02 2013
+
+base of design : http://pjtops.com/app/ShufflingTilesvCard
